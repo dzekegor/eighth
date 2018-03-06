@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "8 марта",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 24,
@@ -35,13 +35,15 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Поздравляем!!!",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
